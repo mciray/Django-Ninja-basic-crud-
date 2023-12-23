@@ -13,10 +13,10 @@ Bu proje, Django ve Django Ninja kullanarak basit bir CRUD (Create, Read, Update
 - Django Ninja kullanımı: Hızlı ve etkili API geliştirme.
 - Veritabanı entegrasyonu: Django ORM ile veritabanı işlemleri.
 
-# Kurulum 
- - Bu adımlar, projenin nasıl kurulacağını ve yerel makinenizde nasıl çalıştırılacağını açıklamaktadır.
+
 
 # Önkoşullar
 
 Bu projeyi çalıştırmak için Python'un yüklü olması gerekmektedir. Ayrıca, Python paketlerini yönetmek için pip ve sanal ortamlar için virtualenv kullanmanız önerilir.
+uygulamayı başlattıktan sonra Secret-Key Konulması gerekmektedir.
 
